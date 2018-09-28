@@ -4,7 +4,10 @@
     <project name="Exynos3475/android_device_samsung_exynos3475-common" remote="github" revision="cm-14.1" path="device/samsung/exynos3475-common"/>
     <project name="Exynos3475/android_device_samsung_j2lte" remote="github" revision="cm-14.1" path="device/samsung/j2lte"/>
 
-    <!--proprietary blobs-->
+    <!--Kernel Source-->
+    <project name="Exynos3475/android_kernel_samsung_exynos3475" remote="github" revision="cm-14.1" path="kernel/samsung/exynos3475"/>
+
+    <!--Proprietary Blobs-->
     <project name="Exynos3475/android_vendor_samsung" remote="github" revision="cm-14.1" path="vendor/samsung"/>
 
     <!--hardware trees-->
