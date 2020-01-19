@@ -1,14 +1,14 @@
-LineageOS 14.1 for Exynos3475 devices
+LineageOS 15.1 for Exynos3475 devices
 ------------------------------------
 
 Create directories
 
-	$ mkdir cm-14.1
-	$ cd cm-14.1
+	$ mkdir lineage-15.1
+	$ cd lineage-15.1
 
 Init the base manifest
 
-	$ repo init -u git://github.com/LineageOS/android.git -b cm-14.1
+	$ repo init -u git://github.com/LineageOS/android.git -b lineage-15.1
   
 Add the local manifest
 
