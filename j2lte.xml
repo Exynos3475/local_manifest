@@ -7,7 +7,7 @@
     <project name="Exynos3475/android_kernel_samsung_exynos3475" remote="github" revision="cm-14.1" path="kernel/samsung/exynos3475"/>
 
     <!--Proprietary Blobs-->
-    <project name="Exynos3475/android_vendor_samsung" remote="github" revision="cm-14.1-20180513" path="vendor/samsung"/>
+    <project name="Exynos3475/android_vendor_samsung" remote="github" revision="cm-14.1" path="vendor/samsung"/>
 
     <!--hardware trees-->
     <project name="LineageOS/android_hardware_samsung_slsi-cm_exynos3475" path="hardware/samsung_slsi-cm/exynos3475" remote="github" revision="cm-14.1" />
