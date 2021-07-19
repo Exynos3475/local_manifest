@@ -8,7 +8,9 @@ Create directories
 
 Init the base manifest
 
-	$ repo init -u git://github.com/LineageOS/android.git -b lineage-17.1
+**For some reason, we need to use older manifest for now**
+
+	$ repo init -u git://github.com/wecouldcalliteven/android.git -b lineage-17.1
   
 Add the local manifest
 
