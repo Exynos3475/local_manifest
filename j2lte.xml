@@ -14,9 +14,9 @@
     <project name="Exynos3475/android_prebuilts_gcc_linux-x86_arm_arm-eabi-4.8" remote="github" revision="android-7.1.2_r36" path="prebuilts/gcc/linux-x86/arm/arm-eabi-4.8"/>
 
     <!--hardware trees-->
-    <project name="Exynos3475/android_hardware_samsung_slsi_exynos3475" path="hardware/samsung_slsi-cm/exynos3475" remote="github" revision="lineage-17.1" />
-    <project name="Exynos3475/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi-cm/exynos" remote="github" revision="lineage-17.1" />
-    <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi-cm/exynos5" remote="github" revision="lineage-17.1" />
-    <project name="LineageOS/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi-cm/openmax" remote="github" revision="lineage-17.1" />
+    <project name="Exynos3475/android_hardware_samsung_slsi_exynos3475" path="hardware/samsung_slsi/exynos3475" remote="github" revision="lineage-17.1" />
+    <project name="Exynos3475/android_hardware_samsung_slsi_exynos" path="hardware/samsung_slsi/exynos" remote="github" revision="lineage-17.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi_exynos5" path="hardware/samsung_slsi/exynos5" remote="github" revision="lineage-17.1" />
+    <project name="LineageOS/android_hardware_samsung_slsi_openmax" path="hardware/samsung_slsi/openmax" remote="github" revision="lineage-17.1" />
     <project name="LineageOS/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lineage-17.1" />
 </manifest>
